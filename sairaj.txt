@@ -1,0 +1,9 @@
+ GITHUB PRACTICAL 
+ STEP 1 : Go on the website www.github.com
+ STEP 2 : Create an account on github
+ STEP 3 : Start a project their & then create a repository, keep the privacy of the repository as public
+ STEP 4 : Rename the repository with a valid name
+ STEP 5 : After renamining the repository select a file and upload it
+ STEP 6 : After uploading the file create the new repository & the repository will be seen on the main page
+ 
+ 
